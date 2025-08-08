@@ -13,9 +13,7 @@
             "email": "git@kjcoop.com"
         }
     ],
-    "require": {}
+    "require": {
+        "kjgcoop/cli-logger": "^1.0"
+    }
 }
-
-
-
-
