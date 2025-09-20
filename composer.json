@@ -1,9 +1,10 @@
 {
-    "name": "kjgcoop/astrological-api",
+    "name": "kjgcoop/astronomical-api",
     "license": "GPL-3.0-or-later",
+    "version": "1.0.1",
     "autoload": {
         "psr-4": {
-            "Kjgcoop\\AstrologicalApi\\": "src/"
+            "Kjgcoop\\AstronomicalApi\\": "src/"
         }
     },
     "authors": [

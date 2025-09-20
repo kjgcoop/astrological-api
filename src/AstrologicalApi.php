@@ -1,11 +1,11 @@
 <?php
 
-namespace Kjgcoop\AstrologicalApi;
+namespace Kjgcoop\AstronomicalApi;
 
 use GuzzleHttp\Client;
 use Kjgcoop\CliLogger\CliLogger;
 
-class AstrologicalApi
+class AstronomicalApi
 {
     private $dateFormat = 'Y-m-d';
 
