@@ -2,6 +2,7 @@
     "name": "kjgcoop/astronomical-api",
     "license": "GPL-3.0-or-later",
     "version": "1.0.1",
+    "description": "This gets the moon phase data offered by the US Navy's Astronomical Applications API",
     "autoload": {
         "psr-4": {
             "Kjgcoop\\AstronomicalApi\\": "src/"
